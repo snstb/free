@@ -14,7 +14,7 @@ http://202.80.222.130/000001/2/ch14041511111714365733/1024.m3u8?virtualDomain=00
 #EXTINF:0, group-title="Lokal TV",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="Lokal TV",TRANSTV
+#EXTINF:0, group-title="Lokal TV",TRANS TV
 http://202.80.222.130/000001/2/ch14041511552652254306/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",SCTV
@@ -26,7 +26,7 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=00
 #EXTINF:0, group-title="Lokal TV",INDOSIAR
 http://202.80.222.130/000001/2/ch15051810235326945512/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="Lokal TV",METROTV
+#EXTINF:0, group-title="Lokal TV",METRO TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",TRANS 7
@@ -41,7 +41,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1024.m3u8?virtualDomain=00
 #EXTINF:0, group-title="Lokal TV",NET.
 http://202.80.222.130/000001/2/ch00000090990000001723/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="Lokal TV",KOMPASTV
+#EXTINF:0, group-title="Lokal TV",KOMPAS TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",RTV
@@ -56,11 +56,11 @@ http://202.80.222.130/000001/2/ch00000090990000001695/1024.m3u8?virtualDomain=00
 #EXTINF:0, group-title="Lokal TV",JTV
 http://202.80.222.130/000001/2/ch00000090990000001731/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="Lokal TV",BALITV
+#EXTINF:0, group-title="Lokal TV",BALI TV
 http://202.80.222.130/000001/2/ch00000090990000001729/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="Lokal TV",DAAITV
-http://202.80.222.130/000001/2/ch00000090990000001706/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="Lokal TV",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
 
 
 
@@ -316,3 +316,4 @@ http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
 
 #EXTINF:0, group-title="Music",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+
