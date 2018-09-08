@@ -251,10 +251,10 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 ###################### Lifestyle ######################
 
-#EXTINF:0, group-title="Lifestyle",TLC HD WORLD
+#EXTINF:0, group-title="Lifestyle",TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 
-#EXTINF:0, group-title="Lifestyle",TRAVEL XP
+#EXTINF:0, group-title="Lifestyle",Travel XP
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
 
 
@@ -291,7 +291,7 @@ http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 
 ###################### Music ######################
 
-#EXTINF:0, group-title="Music",HEART TV
+#EXTINF:0, group-title="Music",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:0, group-title="Music",HIT TV
@@ -303,12 +303,12 @@ http://hplus.netxua.cf/?id=channelv-hd
 #EXTINF:0, group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0, group-title="Music",MALEO CHANNEL
+#EXTINF:0, group-title="Music",Maleo Channel
 http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
 
-#EXTINF:0, group-title="Music",KLIK MUSIK
+#EXTINF:0, group-title="Music",Klik Musik
 http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
 
-#EXTINF:0, group-title="Music",SALURAN MUSIK INDONESIA
+#EXTINF:0, group-title="Music",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
 
