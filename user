@@ -103,8 +103,8 @@ http://rr.dens.tv/h/h28/index2.m3u8
 #EXTINF:0, group-title="Entertainment",KIX
 http://rr.dens.tv/h/h07/index2.m3u8
 
-#EXTINF:0, group-title="Entertainment",ArirangTV
-http://103.242.13.90:5555/udp/239.4.1.74:10000
+#EXTINF:0, group-title="Entertainment",Arirang
+http://livestream.biznetvideo.net/biznet_arirang/_definst_/stream_arirang/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=8pwO_vKBP7a6lRjhEkxA3pYB87yz_XwLsDu5B1M0NB-WDNuwNlybEKBRJQjCGNND
 
 #EXTINF:0, group-title="Entertainment",K DRAMA
 http://rr2.dens.tv/s/s42/index2.m3u8
@@ -121,8 +121,11 @@ http://rr2.dens.tv/s/s19/index2.m3u8
 #EXTINF:0, group-title="Entertainment",TV 5 Monde
 http://rr2.dens.tv/s/s24/index2.m3u8
 
+#EXTINF:0, group-title="Entertainment",KBS Wolrd
+http://livestream.biznetvideo.net/biznet_kbs/_definst_/stream_kbs/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=e8N5dNUeeTbs0x6r4yYwDpiFASDaFDbRl2C5PHDXUAnQ1OsOXQfBxK_nCVabeqek
+
 #EXTINF:0, group-title="Entertainment",Australian Plus
-http://103.242.13.90:5555/udp/239.4.1.79:10000
+http://livestream.biznetvideo.net/biznet_australia/_definst_/stream_australia/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=Q4uUz77dqo05YnU_3JjbIVkiN6-ZMczFLYEAR9HTxrmjaZ5ZmlM6PU_W5E8ateC6
 
 #EXTINF:0, group-title="Entertainment",RTP
 http://rr2.dens.tv/s/s38/index2.m3u8
@@ -180,6 +183,9 @@ http://rr.dens.tv/h/h29/index2.m3u8
 #EXTINF:0, group-title="News",Al Jazeera
 http://rr2.dens.tv/s/s17/index2.m3u8
 
+#EXTINF:0, group-title="News",Bloomberg International
+http://livestream.biznetvideo.net/biznet_bloomberg/_definst_/stream_bloomberg/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=meLBJvKZ2MYgyG4OstTDVt-oUhu2aH8Gb3hDakN5cyPF68W4lVgSGhvc9xuxO6u5
+
 #EXTINF:0, group-title="News",DW
 http://rr2.dens.tv/s/s26/index2.m3u8
 
@@ -193,7 +199,7 @@ http://rr2.dens.tv/s/s22/index2.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:0, group-title="News",Russia Today
-https://secure-streams.akamaized.net/rt/index.m3u8
+http://livestream.biznetvideo.net/biznet_rt/_definst_/stream_rt/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=Etf1_sth-S0fLy23bqSYoBUQBDdzAVad4p7Sr9Uj4P3RxtTY2qEiQd81dLY6Maus
 
 
 
@@ -279,10 +285,10 @@ http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
 
 #EXTINF:0, group-title="Knowledge",National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc
 
 #EXTINF:0, group-title="Knowledge",Nat Geo Wild
-http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
 
 #EXTINF:0, group-title="Knowledge",Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
