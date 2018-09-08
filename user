@@ -257,6 +257,11 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Lifestyle",Travel XP
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
 
+#EXTINF:0, group-title="Lifestyle",Elshinta
+http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
 
 
 ###################### Knowledge ######################
