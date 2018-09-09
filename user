@@ -3,61 +3,61 @@
 ###################### Lokal TV ######################
 
 #EXTINF:0, group-title="Lokal TV",RCTI
-http://202.80.222.130/000001/2/ch14041511532707866226/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+https://stream.sindonews.net/live/rctioke.m3u8
 
 #EXTINF:0, group-title="Lokal TV",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",MNCTV
-http://202.80.222.130/000001/2/ch14041511111714365733/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",iNews
-http://202.80.222.130/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",TRANS TV
-http://202.80.222.130/000001/2/ch14041511552652254306/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s05/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",SCTV
-http://202.80.222.130/000001/2/ch15010918464887721048/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s03/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",TVONE
-http://202.80.222.130/000001/2/ch14061215030555428637/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s02/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",INDOSIAR
-http://202.80.222.130/000001/2/ch15051810235326945512/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s04/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",METRO TV
-http://202.80.222.130/000001/2/ch14041511515576869807/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr.dens.tv/h/h05/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",TRANS 7
-http://202.80.222.130/000001/2/ch14041511545447343123/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s06/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s07/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s11/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",NET.
-http://202.80.222.130/000001/2/ch00000090990000001723/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s08/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",KOMPAS TV
-http://202.80.222.130/000001/2/ch00000090990000001730/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s09/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",RTV
-http://202.80.222.130/000001/2/ch00000090990000001716/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s12/index2.m3u8
 
 #EXTINF:0, group-title="Lokal TV",BERITA SATU
-http://202.80.222.130/000001/2/ch00000090990000001683/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",JAKTV
-http://202.80.222.130/000001/2/ch00000090990000001695/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",JTV
-http://202.80.222.130/000001/2/ch00000090990000001731/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
 
 #EXTINF:0, group-title="Lokal TV",BALI TV
-http://202.80.222.130/000001/2/ch00000090990000001729/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="Lokal TV",DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
